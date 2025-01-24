@@ -43,6 +43,19 @@ The password for `pwned` is `deauther`
 
 ---
 
+## 🛠️ Usage
+
+Once the firmware is installed, follow these steps to use the tool:
+
+1. **Power on your ESP8266**: After flashing, your ESP8266 should boot up and start running the Deauther software.
+2. **Connect to the device**: You can connect to the ESP8266 via WiFi or using a serial terminal.
+3. **OLED Display**: If you have an OLED display connected to your ESP8266, the real-time information will be shown directly on the screen.
+4. **Scan for WiFi Networks**: Use the interface to scan available networks.
+5. **Perform Attacks**: You can select a target device or network and perform actions such as deauthentication attacks, blocking devices, or creating fake networks.
+
+Refer to the on-screen instructions for specific options and commands available through the web interface.
+
+---
 
 
 ## About this Project
