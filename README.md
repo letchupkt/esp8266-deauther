@@ -9,6 +9,42 @@
 
 The password for `pwned` is `deauther`
 
+
+
+## 💻 Installation
+
+### Step 1: Download the Firmware
+
+1. Go to the official GitHub repository to download the `.bin` file for your ESP8266 board:
+   - [Download the latest firmware from this GitHub repo](https://github.com/letchupkt/esp8266-deauther/
+
+### Step 2: Open the Flashing Tool
+
+1. Open [espwebtool](https://espwebtool.netlify.app) in your web browser (Chrome is recommended).
+   
+### Step 3: Connect Your ESP8266
+
+1. Plug your **ESP8266** board into your computer via USB.
+   
+### Step 4: Connect to the Flashing Tool
+
+1. Click **Connect** in the web interface.
+2. Select the **serial port** of your ESP8266 device from the list of available ports.
+
+### Step 5: Upload the Firmware
+
+1. Once connected, click the **"Choose File"** button to select the `.bin` file you downloaded earlier.
+2. After selecting the file, click **Program** to start flashing the firmware onto your ESP8266.
+
+### Step 6: Wait for the Flashing to Complete
+
+1. The flashing process will take a few moments. Wait for the process to complete successfully.
+2. Once completed, your ESP8266 is now ready to use with the Deauther firmware installed!
+
+---
+
+
+
 ## About this Project
 
 This firmware allows you to easily perform a variety of actions to test 802.11 networks using an [ESP8266](https://www.espressif.com/en/products/socs/esp8266). It's also a great project for learning about WiFi, microcontrollers, Arduino, hacking and electronics/programming in general.  
