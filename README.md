@@ -16,7 +16,7 @@ The password for `pwned` is `deauther`
 ### Step 1: Download the Firmware
 
 1. Go to the official GitHub repository to download the `.bin` file for your ESP8266 board:
-   - [Download the latest firmware from this GitHub repo](https://github.com/letchupkt/esp8266-deauther/
+   - [Download the latest firmware from this GitHub repo](https://github.com/letchupkt/esp8266-deauther/)
 
 ### Step 2: Open the Flashing Tool
 
